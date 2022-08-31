@@ -2,7 +2,7 @@ require('@nomicfoundation/hardhat-toolbox');
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
-  solidity: '0.8.9',
+  solidity: '0.8.10',
 };
 
 task('accounts', 'Prints the list of accounts', async () => {
