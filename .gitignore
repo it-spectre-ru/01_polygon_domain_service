@@ -1,14 +1,6 @@
+.env
 node_modules
 package-lock.json
-.git
-node_modules
-.env
-coverage
-coverage.json
-typechain
-typechain-types
-
-#Hardhat files
-cache
+yarn.lock
 artifacts
-
+cache
